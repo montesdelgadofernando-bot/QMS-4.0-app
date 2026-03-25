@@ -1,0 +1,3 @@
+streamlit
+pandas
+3.  **Conéctalo a Streamlit Cloud:** Ve a [share.streamlit.io](https://share.streamlit.io), entra con tu GitHub y selecciona el repositorio. En 2 minutos tendrás un link tipo `https://nexus-qms-fernando.streamlit.app` que es **completamente funcional**.
